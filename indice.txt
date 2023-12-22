@@ -1,15 +1,13 @@
 Capítulo 1: Introducción a Git
 
-Es un software de control de versiones
 
-Capítulo 2: Flujo de trabajo
+Capítulo 2: Flujo de trabajo básico
 
-Para instalar Git, se pueden seguir los pasos descritos en la página oficial de Git
 
-Capítulo 3: Repositorios remotos
+Capítulo 3: Gestión de ramas
 
-Capítulo 4: Gestión de ramas
 
+Capítulo 4: Repositorios remotos
 
 
 
