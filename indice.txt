@@ -6,4 +6,7 @@ Capítulo 2: Flujo de trabajo
 
 Para instalar Git, se pueden seguir los pasos descritos en la página oficial de Git
 
+Capítulo 3: Repositorios remotos
+
+
 
